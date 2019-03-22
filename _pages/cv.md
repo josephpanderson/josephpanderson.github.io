@@ -19,13 +19,13 @@ Work experience
 ======
 * August 2018 - Present: Research Assistant
   * University of Miami
-  [//]: # "* Duties include: Tagging issues"
-  [//]: # "* Supervisor: Professor Hans Graber"
+  <!--* Duties include: Tagging issues -->
+  <!--* Supervisor: Professor Hans Graber -->
 
 * January 2017 - July 2018: Decision Science Analyst
   * USAA
   * Duties included: Building machine learning models, data management and cleaning, creating data visualizations
-  [//]: # "* Supervisor: Oana Nordvall"
+  <!--* Supervisor: Oana Nordvall -->
 
 * Summer 2016: Data Scientist Intern
   * Booz Allen Hamilton
