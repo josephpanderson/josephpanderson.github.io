@@ -11,22 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Texas A&M University, 2013
+* M.S. in Applied Statistics, University of Texas at San Antonio, 2016
+* Ph.D in Ocean Sciences, University of Miami, (in progress)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2018 - Present: Research Assistant
+  * University of Miami
+  [//]: # "* Duties include: Tagging issues"
+  [//]: # "* Supervisor: Professor Hans Graber"
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2017 - July 2018: Decision Science Analyst
+  * USAA
+  * Duties included: Building machine learning models, data management and cleaning, creating data visualizations
+  [//]: # "* Supervisor: Oana Nordvall"
+
+* Summer 2016: Data Scientist Intern
+  * Booz Allen Hamilton
+  * Duties included: Creating visual analytics, storyboarding and presenting model results for clients, model development
   
+* Spring 2016: Teaching Assistant
+  * University of Texas at San Antonio
+  * Duties included: Holding office hours to explain statistical concepts, grading coursework and exams, explaining the basics of statistical computing
+  
+* January 2014 - January 2015: Jr. Processing Geophysicist
+  * Seismic Exchange Inc. (now SEIMAX Technologies)
+  * Duties included: 
+
 Skills
 ======
 * Skill 1
