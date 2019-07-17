@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Texas A&M University, 2013
-* M.S. in Applied Statistics, University of Texas at San Antonio, 2016
 * Ph.D in Ocean Sciences, University of Miami, (in progress)
+* M.S. in Applied Statistics, University of Texas at San Antonio, 2016
+* B.S. in Mathematics, Texas A&M University, 2013
 
 Work experience
 ======
@@ -37,7 +37,7 @@ Work experience
   
 * January 2014 - January 2015: Jr. Processing Geophysicist
   * Seismic Exchange Inc. (now SEIMAX Technologies)
-  * Duties included: 
+  * Duties included: Preparation and processing of geophysical data
 
 Skills
 ======
