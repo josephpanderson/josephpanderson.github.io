@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for MS 3043 (Spring 2016)"
 collection: teaching
 type: "MS 3043 - Business Statistics With Computer Applications II"
 permalink: /teaching/2016-spring-teaching-1
