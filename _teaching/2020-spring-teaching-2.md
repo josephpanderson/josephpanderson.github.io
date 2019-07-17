@@ -10,12 +10,3 @@ location: "Miami, Florida"
 
 (*Future - Revise as Necessary*)
 Assisted in the instruction of MSC 204 by holding office hours and grading papers.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
