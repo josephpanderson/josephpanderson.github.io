@@ -39,14 +39,13 @@ Work experience
   * Seismic Exchange Inc. (now SEIMAX Technologies)
   * Duties included: Preparation and processing of geophysical data
 
-Skills
+Technical Skills / Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* SQL
+* bash
+* MATLAB
+* IDL
 
 <!--Publications
 ======
