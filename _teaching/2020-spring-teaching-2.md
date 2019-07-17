@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for MSC 204 (Spring 2020)"
 collection: teaching
 type: "MSC 204 - Environmental Statistics"
 permalink: /teaching/2015-spring-teaching-1
