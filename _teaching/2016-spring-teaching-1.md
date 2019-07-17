@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "MS 3043 - Business Statistics With Computer Applications II"
 permalink: /teaching/2016-spring-teaching-1
-venue: "University of Texas at San Antonio, Department"
+venue: "University of Texas at San Antonio, Department of Management Science and Statistics"
 date: 2016-01-01
 location: "San Antonio, Texas"
 ---
