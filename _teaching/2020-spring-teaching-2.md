@@ -8,6 +8,5 @@ date: 2020-01-01
 location: "Miami, Florida"
 ---
 
-(*Future - Revise as Necessary*)
 
-Assisted in the instruction of MSC 204 by holding office hours and grading papers.
+Assisted in the instruction of Environmental Statistics (MSC 204) by holding office hours and grading papers.
